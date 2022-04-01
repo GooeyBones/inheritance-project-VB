@@ -1,0 +1,13 @@
+D:\GRCC Documents\Visual Basic 2\Week 7\InheritanceSolution\InheritanceProject\obj\Debug\InheritanceProject.vbproj.AssemblyReference.cache
+D:\GRCC Documents\Visual Basic 2\Week 7\InheritanceSolution\InheritanceProject\obj\Debug\InheritanceProject.Form1.resources
+D:\GRCC Documents\Visual Basic 2\Week 7\InheritanceSolution\InheritanceProject\obj\Debug\InheritanceProject.Resources.resources
+D:\GRCC Documents\Visual Basic 2\Week 7\InheritanceSolution\InheritanceProject\obj\Debug\InheritanceProject.vbproj.GenerateResource.cache
+D:\GRCC Documents\Visual Basic 2\Week 7\InheritanceSolution\InheritanceProject\obj\Debug\InheritanceProject.vbproj.CoreCompileInputs.cache
+D:\GRCC Documents\Visual Basic 2\Week 7\InheritanceSolution\InheritanceProject\bin\Debug\InheritanceProject.exe.config
+D:\GRCC Documents\Visual Basic 2\Week 7\InheritanceSolution\InheritanceProject\bin\Debug\InheritanceProject.exe
+D:\GRCC Documents\Visual Basic 2\Week 7\InheritanceSolution\InheritanceProject\bin\Debug\InheritanceProject.pdb
+D:\GRCC Documents\Visual Basic 2\Week 7\InheritanceSolution\InheritanceProject\bin\Debug\InheritanceProject.xml
+D:\GRCC Documents\Visual Basic 2\Week 7\InheritanceSolution\InheritanceProject\obj\Debug\InheritanceProject.exe
+D:\GRCC Documents\Visual Basic 2\Week 7\InheritanceSolution\InheritanceProject\obj\Debug\InheritanceProject.xml
+D:\GRCC Documents\Visual Basic 2\Week 7\InheritanceSolution\InheritanceProject\obj\Debug\InheritanceProject.pdb
+D:\GRCC Documents\Visual Basic 2\Week 7\InheritanceSolution\InheritanceProject\obj\Debug\InheritanceProject.vbproj.SuggestedBindingRedirects.cache
